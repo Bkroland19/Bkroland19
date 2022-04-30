@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://github.com/AnteroSelin71/antero_selin/blob/main/Logo.gif" />
+  <img src="https://github.com/AnteroSelin71/antero_selin/Logo.gif" />
 </p>
 
 <p align="center">
