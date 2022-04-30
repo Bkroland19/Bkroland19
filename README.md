@@ -69,7 +69,7 @@
 <br><br>
 
 <summary> 😇 <b>My Github Stats</b>: </summary>
-<br>
+<br> 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=AnteroSelin71&show_icons=true&&include_all_commits=true&count_private=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AnteroSelin71&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
