@@ -90,5 +90,6 @@
 <p>
 Email: awork.maksym@gmail.com <br />
 Skype: live:.cid.e9bf7ffc893bf1dc <br />
+Telegram: https://t.me/ice0701 <br />
 </p>
 </div>
