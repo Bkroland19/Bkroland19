@@ -91,6 +91,6 @@
 Email: awork.maksym@gmail.com <br />
 Skype: live:.cid.e9bf7ffc893bf1dc <br />
 Telegram: https://t.me/ice0701 <br />
-Portfolio: https://https://portfolios-7c9243.webflow.io <br />
+Portfolio: https://portfolios-7c9243.webflow.io <br />
 </p>
 </div>
