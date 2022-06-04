@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  Senior Full Stack Engineer
+  Software Developer
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
@@ -16,12 +16,12 @@
 
 ## Core Skills
 
-- 🔭 <b>Frontend</b> : React.js, Next.js, Gatsby.js, Vue.js, Nuxt.js, Quasar
+- 🔭 <b>Frontend</b> : React.js, Next.js, Typescript,React Native ,Redux Toolkit
 - 🔥 <b>BlockChain</b> : Web3.js, Ether.js, Ethereum, Solana, DeFi, Dex, NFT
 - 🌱 <b>Libraries</b> : Bootstrap, TailwindCSS, Material UI, AntD, RSuite
-- 👨‍💻 <b>Backend</b> : PHP / Laravel, CI, Node.js / Express, Python / Django , Java / Spring
+- 👨‍💻 <b>Backend</b> : Express, Nestjs ,Nodejs , ,Graghql
 - 💬 <b>Database</b> : MySQL, MongoDB, PostgreSQL, MariaDB, SQLite
-- 📫 <b>Languages</b> : JavaScript, TypeScript, ReScript, HTML5, CSS/SCSS/LESS, PHP, Python, Solidity, Rust
+- 📫 <b>Languages</b> : JavaScript, TypeScript, ReScript, HTML5, CSS/SCSS/ , Solidity
 
 <p align="center" style="margin-bottom: 10px;">
     <img src="https://github-profile-trophy.vercel.app/?username=SuperDev0701&column=7&theme=onedark"/>
@@ -71,7 +71,7 @@
 <summary> 😇 <b>My Github Stats</b>: </summary>
 <br> 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=SuperDev0701&show_icons=true&&include_all_commits=true&count_private=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Bkroland19&show_icons=true&&include_all_commits=true&count_private=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SuperDev0701&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img alt="SuperDev0701's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SuperDev0701&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
@@ -88,9 +88,8 @@
 </h2>
 <br />
 <p>
-Email: awork.maksym@gmail.com <br />
-Skype: live:.cid.e9bf7ffc893bf1dc <br />
-Telegram: https://t.me/ice0701 <br />
-Portfolio: https://portfolios-7c9243.webflow.io <br />
+Email: bkroland19@gmail.com<br />
+Whatsapp: +256773078860 <br />
+Portfolio: https://portifolio-resume.web.app/<br />
 </p>
 </div>
