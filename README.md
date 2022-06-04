@@ -24,7 +24,7 @@
 - 📫 <b>Languages</b> : JavaScript, TypeScript, ReScript, HTML5, CSS/SCSS/LESS, PHP, Python, Solidity, Rust
 
 <p align="center" style="margin-bottom: 10px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=webDev0701&column=7&theme=onedark"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=SuperDev0701&column=7&theme=onedark"/>
 </p>
 
 ## Languages & Tools
@@ -71,10 +71,10 @@
 <summary> 😇 <b>My Github Stats</b>: </summary>
 <br> 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=webDev0701&show_icons=true&&include_all_commits=true&count_private=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=webDev0701&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api?username=SuperDev0701&show_icons=true&&include_all_commits=true&count_private=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SuperDev0701&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="webDev0701's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=webDev0701&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+    <img alt="SuperDev0701's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SuperDev0701&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
   </a>
   
 </p>
