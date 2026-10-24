@@ -67,8 +67,8 @@ My **AWS environments are managed with Terraform**. Containerised services ship 
 | 💊 | **[mediguide-pos](https://github.com/Bkroland19/mediguide-pos)** | Clinical-guidance platform for the Ministry of Health: typed API, AI/RAG ingestion worker and an offline-first Flutter app | Go · Flutter · Docker Compose |
 | 🚚 | **[last-mile-condom-distribution](https://github.com/Bkroland19/last-mile-condom-distribution)** · [live ↗](https://last-pi.vercel.app) | Last-mile health-commodity distribution tracking on GIS maps, with offline caching | React · Redux Toolkit · ArcGIS / Leaflet · Docker |
 | 📊 | **[uphia-dashboard](https://github.com/Bkroland19/uphia-dashboard)** | Analytics over Uganda Population-based HIV Impact Assessment survey data, spread across several MySQL databases | Next.js · MySQL · Recharts |
-| 🧩 | **[micro-frontend-archictecture](https://github.com/Bkroland19/micro-frontend-archictecture)** | A container app plus independently deployed cart and product micro-frontends, the architecture I took to production at Autosoft | React · Webpack 5 |
-| 🔐 | **[Go-GIN-AuTH](https://github.com/Bkroland19/Go-GIN-AuTH)** | JWT authentication service with middleware-guarded routes | Go · Gin · SQLite |
+| 🧩 | **[micro-frontend-archictecture](https://github.com/Bkroland19/micro-frontend-archictecture)** | A container shell composing independently deployed cart and product micro-frontends at runtime, the architecture I took to production at Autosoft | JavaScript · Webpack 5 Module Federation |
+| 🎟️ | **[Go-GIN-AuTH](https://github.com/Bkroland19/Go-GIN-AuTH)** | Event-booking REST API with JWT auth middleware, registration and cancellation flows | Go · Gin · SQLite |
 
 ## 🧰 Toolbox
 
