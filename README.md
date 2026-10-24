@@ -64,7 +64,7 @@ My **AWS environments are managed with Terraform**. Containerised services ship 
 | | Project | What it does | Stack |
 |:-:|---|---|---|
 | 🧫 | **[combined-pps](https://github.com/Bkroland19/combined-pps)** | Point Prevalence Survey platform for hospital antimicrobial-use surveillance: CSV ingest, relational API and an analytics dashboard | Go · Gin · GORM · PostgreSQL · Next.js · Docker |
-| 💊 | **[mediguide-pos](https://github.com/Bkroland19/mediguide-pos)** | Clinical-guidance platform for the Ministry of Health: typed API, AI/RAG ingestion worker and an offline-first Flutter app | Go · Flutter · Docker Compose |
+| 💊 | **[mediguide-pos](https://github.com/Bkroland19/mediguide-pos)** · [live ↗](https://mediguide.health.go.ug) | Clinical-guidance platform for the Ministry of Health: typed API, AI/RAG ingestion worker and an offline-first Flutter app | Go · Flutter · Docker Compose |
 | 🚚 | **[last-mile-condom-distribution](https://github.com/Bkroland19/last-mile-condom-distribution)** · [live ↗](https://last-pi.vercel.app) | Last-mile health-commodity distribution tracking on GIS maps, with offline caching | React · Redux Toolkit · ArcGIS / Leaflet · Docker |
 | 📊 | **[uphia-dashboard](https://github.com/Bkroland19/uphia-dashboard)** | Analytics over Uganda Population-based HIV Impact Assessment survey data, spread across several MySQL databases | Next.js · MySQL · Recharts |
 | 🧩 | **[micro-frontend-archictecture](https://github.com/Bkroland19/micro-frontend-archictecture)** | A container shell composing independently deployed cart and product micro-frontends at runtime, the architecture I took to production at Autosoft | JavaScript · Webpack 5 Module Federation |
